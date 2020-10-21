@@ -13,7 +13,3 @@ SOURCES:
 6. Linkedin Learning
 7. Eduonix
 8. DataCamp
-9. Udacity
-10.Treehouse
-11.Solo Learn
-12.One Month
