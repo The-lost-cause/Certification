@@ -14,6 +14,6 @@ SOURCES:
 7. Eduonix
 8. DataCamp
 9. Udacity
-10.Sololearn
-11.Treehouse
-12. Skill
+10.Treehouse
+11.Solo Learn
+12.One Month
